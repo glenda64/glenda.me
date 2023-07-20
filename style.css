@@ -1,0 +1,50 @@
+html {
+  font-family: "Georgia", serif;
+  margin: auto;
+  max-width: 720px;
+  text-align: justify;
+  color: #3c3836;
+  background-color: #fbf1c7;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+a {
+  color: #076678;
+}
+
+img {
+  display: block;
+  width: 50%;
+  margin-inline: auto;
+  border: 2px solid #3c3836;
+  border-radius: 1em;
+}
+
+code, pre {
+  font-family: "IBM Plex Mono", "Source Code Pro", monospace;
+}
+
+pre {
+  border-radius: 1em;
+  padding: 0.5em;
+  overflow-x: scroll;
+  color: #fbf1c7;
+  background-color: #3c3836;
+}
+
+img.motion-alt {
+  display: none;
+}
+
+@media (prefers-reduced-motion) {
+  img.motion {
+    display: none;
+  }
+
+  img.motion-alt {
+    display: block;
+  }
+}
