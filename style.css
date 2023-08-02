@@ -15,6 +15,10 @@ a {
   color: #076678;
 }
 
+a:visited {
+  color: #8f3f71;
+}
+
 img {
   display: block;
   width: 50%;
