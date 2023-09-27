@@ -47,8 +47,12 @@ pre {
   background-color: #282828;
 }
 
-code span.c, pre span.c {
+code span.ct, pre span.ct {
   color: #88eeee;
+}
+
+code span.cc, pre span.cc {
+  color: #88ee88;
 }
 
 img.motion-alt {
