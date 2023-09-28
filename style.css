@@ -11,6 +11,7 @@
 body {
   font-family: "Inter", sans-serif;
   margin: auto;
+  padding: 1em;
   max-width: 720px;
   text-align: justify;
   color: #ffffff;
@@ -41,7 +42,7 @@ code, pre {
 }
 
 pre {
-  padding: 1em;
+  padding: 0.25em;
   border: 2px solid #ffffff;
   overflow-x: scroll;
   background-color: #282828;
