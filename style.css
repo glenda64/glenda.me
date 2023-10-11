@@ -49,14 +49,6 @@ pre {
   font-size: 18px;
 }
 
-code span.ct, pre span.ct {
-  color: #88eeee;
-}
-
-code span.cc, pre span.cc {
-  color: #88ee88;
-}
-
 img.motion-alt {
   display: none;
 }
