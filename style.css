@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Inter";
-  src: url("fonts/inter/var.ttf");
+  src: url("fonts/inter/inter.ttf");
 }
 
 @font-face {
-  font-family: "Inconsolata";
-  src: url("fonts/inconsolata/var.ttf");
+  font-family: "Iosevka";
+  src: url("fonts/iosevka/iosevka.ttf");
 }
 
 body {
@@ -38,7 +38,7 @@ img {
 }
 
 code, pre {
-  font-family: "Inconsolata", monospace;
+  font-family: "Iosevka", monospace;
 }
 
 pre {
