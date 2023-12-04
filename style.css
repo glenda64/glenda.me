@@ -48,6 +48,11 @@ pre {
   font-size: 18px;
 }
 
+p.note {
+  font-size: 10px;
+  text-align: center;
+}
+
 img.motion-alt {
   display: none;
 }
