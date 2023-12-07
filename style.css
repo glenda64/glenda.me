@@ -40,11 +40,6 @@ pre {
   overflow-x: scroll;
 }
 
-p.note {
-  font-size: 10px;
-  text-align: center;
-}
-
 img.motion-alt {
   display: none;
 }
