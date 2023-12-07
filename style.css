@@ -1,33 +1,25 @@
-@font-face {
-  font-family: "Inter";
-  src: url("fonts/inter/inter.ttf");
-}
-
-@font-face {
-  font-family: "Iosevka";
-  src: url("fonts/iosevka/iosevka.ttf");
+html {
+  background-color: grey;
 }
 
 body {
-  font-family: "Inter", sans-serif;
-  margin: auto;
+  font-family: "Georgia", serif;
+  border: 2px solid black;
+  margin: 1em auto;
   padding: 1em;
-  max-width: 720px;
+  max-width: 600px;
   text-align: justify;
-  color: #ffffff;
-  background-color: #282830;
+  background-color: white;
 }
 
-h1, h2, h3 {
+h1 {
+  font-size: 48px;
   text-align: center;
 }
 
-a {
-  color: #aaaaff;
-}
-
-a:visited {
-  color: #ffaaff;
+h2, h3 {
+  font-style: italic;
+  text-align: center;
 }
 
 img {
@@ -37,15 +29,15 @@ img {
 }
 
 code, pre {
-  font-family: "Iosevka", monospace;
+  font-family: "Andale Mono", monospace;
+  background-color: lightblue;
+  font-size: 16px;
 }
 
 pre {
   padding: 0.25em;
-  border: 2px solid #ffffff;
+  border: 2px solid black;
   overflow-x: scroll;
-  background-color: #282828;
-  font-size: 16px;
 }
 
 p.note {
