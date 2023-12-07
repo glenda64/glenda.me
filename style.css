@@ -43,17 +43,3 @@ pre {
   border: 2px solid black;
   overflow-x: scroll;
 }
-
-img.motion-alt {
-  display: none;
-}
-
-@media (prefers-reduced-motion) {
-  img.motion {
-    display: none;
-  }
-
-  img.motion-alt {
-    display: block;
-  }
-}
