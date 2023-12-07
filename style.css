@@ -12,6 +12,10 @@ body {
   background-color: white;
 }
 
+p.ring {
+  text-align: center;
+}
+
 h1 {
   font-size: 48px;
   text-align: center;
