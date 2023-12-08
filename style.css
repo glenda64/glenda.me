@@ -32,6 +32,10 @@ img {
   margin-inline: auto;
 }
 
+code {
+  padding: 0 0.1em;
+}
+
 code, pre {
   font-family: "Andale Mono", monospace;
   background-color: lightblue;
