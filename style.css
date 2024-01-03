@@ -12,10 +12,6 @@ body {
   background-color: white;
 }
 
-p.ring {
-  text-align: center;
-}
-
 h1 {
   font-size: 36px;
   text-align: center;
@@ -28,7 +24,6 @@ h2, h3 {
 
 img {
   display: block;
-  width: 50%;
   margin-inline: auto;
 }
 
