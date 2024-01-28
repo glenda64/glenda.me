@@ -32,7 +32,7 @@ code {
 }
 
 code, pre {
-  font-family: "Andale Mono", monospace;
+  font-family: "Monaco", "Cascadia Code", "Consolas", monospace;
   background-color: lightblue;
   font-size: 16px;
 }
