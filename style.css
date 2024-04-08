@@ -1,10 +1,10 @@
 html {
-  background-color: grey;
+  background-color: pink;
 }
 
 body {
-  font-family: "Georgia", serif;
-  border: 2px solid black;
+  font-family: "Trebuchet", sans-serif;
+  border: 12px solid skyblue;
   margin: 1em auto;
   padding: 1em;
   max-width: 600px;
@@ -14,10 +14,10 @@ body {
 
 h1 {
   font-size: 36px;
-  text-align: center;
 }
 
-h2, h3 {
+h1, h2, h3 {
+  font-family: "Georgia", serif;  
   font-style: italic;
   text-align: center;
 }
@@ -25,6 +25,7 @@ h2, h3 {
 img {
   display: block;
   margin-inline: auto;
+  border: 12px solid black;
 }
 
 code {
@@ -32,9 +33,9 @@ code {
 }
 
 code, pre {
-  font-family: "Monaco", "Cascadia Code", "Consolas", monospace;
-  background-color: lightblue;
   font-size: 14px;
+  font-family: "Monoid", "Consolas", monospace;
+  background-color: lightblue;
   tab-size: 4;
 }
 
