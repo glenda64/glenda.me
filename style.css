@@ -24,7 +24,6 @@ h1, h2, h3 {
 
 img {
   display: block;
-  margin-inline: auto;
   border: 12px solid black;
 }
 
