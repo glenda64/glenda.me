@@ -45,5 +45,6 @@ pre {
 }
 
 ::selection {
-  background-color: peachpuff;
+  background-color: black;
+  color: white;
 }
